@@ -1,6 +1,6 @@
 Shopping List
 
-apples
+12apples
 bananas
 yogurt
 milk
